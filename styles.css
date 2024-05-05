@@ -1,0 +1,151 @@
+/* removendo header automatico */
+header{visibility: hidden;}
+
+/* removendo footer automatico */
+footer{visibility: hidden;}
+
+/* removendo padding do topo da pagina */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5{padding: 0;}
+
+/* removendo gap do topo da pagina */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div{gap: 0;}
+
+/* removendo icone do plotly dos graficos */
+[data-title="Produced with Plotly.js (v2.26.1)"]{visibility: hidden;}
+
+/* layout conteudo principal */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5
+{
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    /* vertical-align: middle; */
+    /* align-items: center; */
+}
+
+/* diminuindo o padding superior da side bar */
+[data-testid="stSidebarNavItems"]{padding-top: 20%;}
+
+/* definindo alinhamento horizontal dos headers e subheaders */
+/* h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: left;} */
+
+/* removendo header automatico */
+header{visibility: hidden;}
+
+/* removendo footer automatico */
+footer{visibility: hidden;}
+
+/* removendo botÃµes de autorolagem da pagina */
+.st-emotion-cache-bcnn9x {visibility: hidden;}
+.st-emotion-cache-15zrgzn{visibility: hidden;}
+
+/* removendo padding do topo da pagina */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5{padding: 0;}
+
+/* removendo gap do topo da pagina */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5 > div > div > div{gap: 0;}
+
+/* removendo icone do plotly dos graficos */
+[data-title="Produced with Plotly.js (v2.26.1)"]{visibility: hidden;}
+
+/* layout conteudo principal */
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.st-emotion-cache-uf99v8.ea3mdgi8 > div.block-container.st-emotion-cache-z5fcl4.ea3mdgi5
+{
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    /* vertical-align: middle; */
+    /* align-items: center; */
+}
+
+/* diminuindo o padding superior da side bar */
+[data-testid="stSidebarNavItems"]{padding-top: 20%;}
+
+/* definindo alinhamento horizontal dos headers e subheaders */
+/* h1{text-align: center;}
+h2{text-align: center;}
+h3{text-align: left;} */
+
+/* definindo o tamanho da fonte do nome das paginas na side bar */
+[data-testid="stSidebarNavLink"] {font-size: 1.125rem ;}
+
+[data-testid="stAppViewContainer"] {background-image: linear-gradient(to right, #c8faff, #75bfff);}
+
+[data-testid="stSidebar"] {background-image: linear-gradient(to right, #c8faff, #75bfff);}
+
+/* limitando a largura do select box do cpf do paciente na pagina de cadastros */
+[data-baseweb="select"]{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    /* max-width: 170px; */
+}
+
+/* fixando largura do botÃ£o do widget de input de data */
+.stDateInput{
+    max-width: 160px;
+    min-width: 160px;
+}
+
+/* fixando largura do botÃ£o do widget de input de hora */
+.stTimeInput{
+    max-width: 110px;
+    min-width: 110px;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > div > section.st-emotion-cache-ytvzlh.eczjsme11 > div.st-emotion-cache-6qob1r.eczjsme3 > div.st-emotion-cache-79elbk.eczjsme10 > ul{
+font-family: "Source Sans Pro", sans-serif;
+line-height: 1.6;
+text-size-adjust: 100%;
+-webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+-webkit-font-smoothing: auto;
+color: rgb(106, 131, 124);
+color-scheme: light;
+user-select: auto;
+box-sizing: border-box;
+padding: 0px;
+font-size: 1rem;
+font-weight: 400;
+max-height: 36vh;
+list-style: none;
+overflow: overlay;
+margin: 0px;
+padding-bottom: 1rem;
+padding-top: 20%;
+}
+
+/* centralizando conteudo dos expanders de ediÃ§Ã£o das informaÃ§Ãµes do medico (logado como mÃ©dico) */
+/* [data-testid="stExpanderDetails"]{
+    justify-content: center;
+    max-width: 300px;
+} */
+
+/* removendo o separador da side bar */
+/* [data-testid="stSidebarNavSeparator"]{visibility: hidden;}    */
+
+/* definindo o alinhamento horizontal dos elementos nas colunas */
+[data-testid="stHorizontalBlock"]{
+    justify-content: center;
+    align-items: center;    
+    align-content: center;
+    align-self: auto;
+}
+[data-testid="column"]{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+
+/* definindo o tamanho da fonte do nome das paginas na side bar */
+[data-testid="stSidebarNavLink"] {font-size: 1.125rem ;}
+
+/* definindo background gradiente para o contudo pricipal */
+[data-testid="stAppViewContainer"] {background-image: linear-gradient(to right, #c8faff, #75bfff);}
+
+/* definindo background gradiente para a side bar */
+[data-testid="stSidebar"] {background-image: linear-gradient(to right, #c8faff, #75bfff);}
+
